@@ -1,0 +1,72 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #eee;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+
+header ul {
+    display: flex;
+   
+}
+
+ header ul li {
+    list-style: none;
+    padding-right: 150px;
+    padding-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #000
+}
+
+#hero {
+    text-align: center;
+    
+}
+
+
+#email {
+    margin-top: 10px;
+  }
+    
+    
+
+
+
+.Home {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 30px 30px;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 0px;
+    }
+
+.point {
+    text-align: left;
+    margin: 50px
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+    
+    
+}
+
+
+
+
